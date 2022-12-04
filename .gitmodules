@@ -1,3 +1,6 @@
 [submodule "LaravelRestDocker"]
 	path = LaravelRestDocker
 	url = ./LaravelRestDocker/
+[submodule "PEsoapC-"]
+	path = PEsoapC-
+	url = ./PEsoapC-/
