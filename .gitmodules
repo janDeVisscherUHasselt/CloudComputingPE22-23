@@ -1,0 +1,3 @@
+[submodule "LaravelRestDocker"]
+	path = LaravelRestDocker
+	url = ./LaravelRestDocker/
