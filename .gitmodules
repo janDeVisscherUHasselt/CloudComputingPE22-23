@@ -4,3 +4,6 @@
 [submodule "PEsoapC-"]
 	path = PEsoapC-
 	url = ./PEsoapC-/
+[submodule "nodejsexpress"]
+	path = nodejsexpress
+	url = ./nodejsexpress/
